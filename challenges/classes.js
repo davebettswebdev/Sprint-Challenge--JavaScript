@@ -16,7 +16,7 @@ class CuboidMakerClass{
     return 2 * (this.length * this.width + this.length * this.height + this.width * this.height); 
     }
 }
-let cuboidOjb = new CuboidMakerClass({
+let cuboidObj = new CuboidMakerClass({
     length: 4,
     width: 5,
     height: 5
